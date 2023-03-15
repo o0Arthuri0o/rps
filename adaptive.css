@@ -1,0 +1,13 @@
+@media only screen and (max-width:800px){
+	.selection{
+		margin-top: 2rem;
+	}
+	.results{
+		font-size: 2rem;
+		margin-top: 2rem;
+		margin-right: 1rem;
+	}
+	.result-score{
+		font-size: 2rem;
+	}
+}
